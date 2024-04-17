@@ -1,0 +1,6 @@
+.correctAnswer {
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+    text-decoration-color: green;
+    font-weight: bold;
+}
